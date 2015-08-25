@@ -60,7 +60,7 @@ hash -d npm
 
 # install node with nvm, and set it to the default version
 nvm install stable
-nvm alias default stable
+nvm alias default iojs
 
 # make sure npm is up to date
 npm install -g npm
